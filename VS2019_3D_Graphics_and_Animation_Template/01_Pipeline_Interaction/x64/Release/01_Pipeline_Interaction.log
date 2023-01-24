@@ -1,0 +1,6 @@
+﻿  Mesh.cpp
+C:\Users\ztals\Downloads\Code_Project\GAGraphicsTemplate2021-master\VS2019_3D_Graphics_and_Animation_Template\01_Pipeline_Interaction\mesh.h(3,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  OBJLoader.cpp
+C:\Users\ztals\Downloads\Code_Project\GAGraphicsTemplate2021-master\VS2019_3D_Graphics_and_Animation_Template\01_Pipeline_Interaction\OBJLoader.h(4,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Source.cpp
+C:\Users\ztals\Downloads\Code_Project\GAGraphicsTemplate2021-master\VS2019_3D_Graphics_and_Animation_Template\01_Pipeline_Interaction\Source.cpp(16,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
